@@ -1,4 +1,4 @@
-# Rinesa Kuci
+# Rinesa Kuçi
 Jam studente e Shkencave Kompjuterike dhe Inxhinieri
 
 # Gjerat qe me pelqejne
